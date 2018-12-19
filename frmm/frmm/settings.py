@@ -131,7 +131,7 @@ LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
 
 # GDAL_LIBRARY_PATH = 'C:\Program Files\GDAL'
-GDAL_LIBRARY_PATH = '/usr/local/lib/libgdal.so'
+# GDAL_LIBRARY_PATH = '/usr/local/lib/libgdal.so'
 
 MAP_WIDGETS = {
     "GooglePointFieldWidget": (
